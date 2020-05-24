@@ -7,11 +7,13 @@ Send - url | New Name.mkv
 
  Note: join group and channel for using me 
 
-My Support Group : @MOVIENIGHTGROUP,@MOVIES_NIGHTG,@Leech2group
+My Support Group : @MOVIES_NIGHTG,@Leech2group
+
+Bot Update channel join : @Bot_Update_bot
 
 /help for more details..
 
-© @MuSkysM, @Badboy2Badboy"""
+© @MuSkysM"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -19,8 +21,8 @@ My Support Group : @MOVIENIGHTGROUP,@MOVIES_NIGHTG,@Leech2group
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "📥 downloading"
-    UPLOAD_START = "📥 uploading"
+    DOWNLOAD_START = "⬇ downloading"
+    UPLOAD_START = "⬆ uploading"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @MOVIES_NIGHTG"
